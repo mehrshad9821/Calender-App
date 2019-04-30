@@ -1,9 +1,4 @@
 # Usage
-Clone this repo, setup virtualenv, install Django
-```
-git clone https://github.com/huiwenhw/django-calendar
-cd django-calendar
-
 virtualenv env
 source env/bin/activate
 pip3 install django
